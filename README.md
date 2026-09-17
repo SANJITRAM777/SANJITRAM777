@@ -31,7 +31,7 @@
 
 <img align="right" width="40%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000&color=A78BFA&center=true&vCenter=true&multiline=true&width=380&height=180&lines=%3Cengineer%3E;++role%3A+%22AI+%2B+Full+Stack%22;++stack%3A+%5BPython%2C+Java%2C+JS%5D;++focus%3A+%22Applied+ML+Systems%22;%3C%2Fengineer%3E" />
 
-I'm a Computer Science undergraduate at **KIT, Coimbatore**, focused on building software that sits at the intersection of **backend engineering** and **applied machine learning**. My work spans data-driven analytics platforms, full-stack web systems, and real-time tracking applications — with an emphasis on writing production-minded code, not just notebooks.
+I'm a Computer Science undergraduate at **KIT, Coimbatore**, focused on building software that sits at the intersection of **backend engineering** and **applied machine learning**. My work spans data-driven analytics platforms, full-stack web systems — with an emphasis on writing production-minded code, not just notebooks.
 
 **🔭 Open To:**
 - AI/ML Engineering internships & entry-level roles
@@ -231,7 +231,6 @@ current_focus:
     - Backend engineering patterns
   building:
     - AI-Powered Vegetable Inventory & Sales Management System
-    - Real-Time Public Transport Tracking (SIH 2026)
   open_to:
     - AI/ML Engineering internships
     - Software Engineering internships
