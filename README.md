@@ -65,7 +65,27 @@ I'm a Computer Science undergraduate at **KIT, Coimbatore**, focused on building
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🥦 AI-Powered Vegetable Inventory & Sales Management System</b></summary>
+<summary><b>Smart Parking Optimization System</b></summary>
+<br/>
+
+IoT-based smart parking system integrating DNN prediction, parking optimization, and Generative AI. The system monitors parking occupancy using ESP32 and HC-SR04, predicts future occupancy using LSTM, recommends a suitable parking slot, and provides a conversational parking assistant.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | ESP32, HC-SR04, Python, FastAPI, SQLite, TensorFlow/Keras, React, Google Gemini |
+| **IoT** | ESP32 + ultrasonic sensor with Wi-Fi/HTTP communication |
+| **DNN** | LSTM-based parking occupancy prediction |
+| **Optimization** | Parking recommendation based on availability, predicted occupancy, and walking distance |
+| **GenAI** | Google Gemini-powered conversational parking assistant |
+| **Frontend** | React + Vite driver dashboard |
+| **Performance** | LSTM test accuracy: 96.48% on the project's generated/synthetic test dataset |
+| **Architecture** | HC-SR04 → ESP32 → FastAPI → SQLite → LSTM → Optimization → Gemini → React |
+| **Repository** | `https://github.com/SANJITRAM777/smart-parking-optimization` |
+
+</details>
+
+<details>
+<summary><b></b>🥦 AI-Powered Vegetable Inventory & Sales Management System</summary>
 <br/>
 
 Sales and inventory analytics platform built for vegetable market and supermarket owners currently running operations on paper records. Includes an analytics dashboard, a database-backed inventory engine, and a demand-forecasting module in progress.
@@ -79,22 +99,6 @@ Sales and inventory analytics platform built for vegetable market and supermarke
 | **Impact** | Digitizes paper-based inventory workflows into a structured, queryable system |
 | **Repository** | `https://github.com/SANJITRAM777/vegetable-inventory-management` |
 
-</details>
-
-<details>
-<summary><b>📅 Event Management System</b></summary>
-<br/>
-
-Java Swing desktop application for managing events end-to-end — participant registration, event-wise data management, and persistent storage via JDBC.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Java, JDBC, SQL, Swing |
-| **Scale** | Desktop, single-instance application |
-| **Performance** | Full CRUD operations against a relational backend |
-| **Security** | Standard JDBC parameterized queries |
-| **Impact** | Replaces manual event tracking with a structured desktop workflow |
-| **Repository** | `github.com/SANJITRAM777/Event-Management-System` |
 
 </details>
 
